@@ -29,7 +29,10 @@ Test data like url required for running the test is fed via excel file which is 
 
 The required fields to set up the framework like link for the api to be tested, path for the testdata sheet etc; are fed via `config.properties` file available under the framework.
 
-To test the framework, you can open the RestClient.java file from com.kosmos.client package, right click on the file >> RunAs >> TestNG Test
+To test the framework-  
+- open the `RestClient.java` file from `com.kosmos.client` package
+- right click on the file
+-  choose `RunAs`, then `TestNG Test`
 
 ## Reporting
 After successfull execution of the test a Test-output folder will be generated (Refresh the project if the folder is not visible). Open the index.html in browser to see the detailed testNG report.
