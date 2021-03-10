@@ -1,5 +1,5 @@
 # APITestFramework
-Java Project for test automation, covering API testing. Created for validating health response status for a given url and fetching EULA for a given tenant.
+Java Project for test automation, covering API testing. Created for validating response status code for a given url and fetching EULA for a given tenant.
 
 ## Concepts Included
 1. API interaction methods
